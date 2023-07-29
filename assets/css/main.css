@@ -2603,7 +2603,7 @@ input, select, textarea {
 		color: rgba(255, 255, 255, 0.5);
 		height: 100%;
 		left: 0;
-		padding: 8em 4em;
+		padding: 4em 4em;
 		position: fixed;
 		text-align: right;
 		top: 0;
@@ -2687,7 +2687,7 @@ input, select, textarea {
 	#main {
 		margin-left: 35%;
 		max-width: 54em;
-		padding: 8em 4em 4em 4em;
+		padding: 3em 4em 3em 4em;
 		width: calc(100% - 35%);
 		background-color: #f3f7ff;
 	}
@@ -3001,7 +3001,7 @@ input, select, textarea {
 		/* Header */
 
 			#header {
-				padding: 6em 3em 3em 3em;
+				padding: 4em 3em 3em 3em;
 				width: 30%;
 			}
 
@@ -3032,7 +3032,7 @@ input, select, textarea {
 			#main {
 				margin-left: 30%;
 				max-width: none;
-				padding: 6em 3em 3em 3em;
+				padding: 3em 3em 3em 3em;
 				width: calc(100% - 30%);
 			}
 
@@ -3061,7 +3061,7 @@ input, select, textarea {
 				background-position: top left, center center;
 				background-size: auto,		cover;
 				left: auto;
-				padding: 6em 4em;
+				padding: 4em 4em;
 				position: relative;
 				text-align: center;
 				top: auto;
@@ -3114,7 +3114,7 @@ input, select, textarea {
 
 			#main {
 				margin: 0;
-				padding: 6em 4em;
+				padding: 3em 4em;
 				width: 100%;
 			}
 
