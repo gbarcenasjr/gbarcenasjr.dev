@@ -6,7 +6,7 @@ I am Gerardo Barcenas, a passionate software developer. This portfolio showcases
 
 ## Building Process
 
-The portfolio website was built using a combination of front-end technologies, including HTML, CSS, and JavaScript. The responsive and user-friendly layout was achieved using CSS frameworks like Bootstrap and custom SCSS (Sassy CSS) styling. To ensure smooth and interactive user experiences, JavaScript libraries such as jQuery were integrated.
+The portfolio website was built using a combination of front-end technologies, including HTML, CSS, and JavaScript. The responsive and user-friendly layout was achieved using custom SCSS (Sassy CSS) styling. To ensure smooth and interactive user experiences, JavaScript libraries such as jQuery were integrated.
 
 The use of SCSS, a superset of CSS with enhanced features like variables, nested rules, and mixins, facilitated the organization and maintainability of the stylesheets. SCSS allowed me to efficiently structure the project's CSS, making it easier to customize and update the design across the entire website.
 
