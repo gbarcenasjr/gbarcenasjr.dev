@@ -26,7 +26,6 @@ In this segment, I highlight my diverse interests within the field of software d
 
 The Portfolio section is the heart of the website, featuring a curated selection of my recent projects and accomplishments. Each project is accompanied by a brief description, the technologies used, and links to relevant GitHub repositories or live demos. The Moto-Safe iOS app, the LeetCode Solutions Workpage, the GMB Cleaning Services Website, and my Code Path iOS Certificate are among the showcased projects.
 
-
 ### Contact Me
 
 The Contact Me section provides essential contact information, including my address, phone number, and email address. Visitors are encouraged to reach out for inquiries, collaboration opportunities, or simply to connect with me. The interactive form allows for easy communication.
@@ -34,7 +33,6 @@ The Contact Me section provides essential contact information, including my addr
 ## Conclusion
 
 Thank you for exploring my portfolio website. I hope this platform effectively reflects my passion for software development and my dedication to crafting meaningful solutions. Please feel free to reach out if you have any questions, want to collaborate, or just want to connect. I look forward to engaging with you and exploring exciting possibilities in the world of technology! 🚀
-
 
 Copyright (C) 2023  Gerardo Barcenas Jr.
 
@@ -51,5 +49,5 @@ Copyright (C) 2023  Gerardo Barcenas Jr.
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-Contact me at gbarcenasjr@gmail.com for any questions or concerns.
+Contact me at <gbarcenasjr@gmail.com> for any questions or concerns.
 Thank you.
